@@ -1,8 +1,8 @@
 # Breast-Cancer-Classification-Machine-Learning
-### Project Overview
+# Project Overview
 This project aims to classify breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset from the scikit-learn library. The goal is to build and evaluate machine learning models for accurate predictions, aiding early detection and better healthcare outcomes.
 
-### Dataset Description
+# Dataset Description
 Source: Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn.
 Features: 30 numerical features describing cell nucleus characteristics (e.g., radius, texture, perimeter).
 Target:
